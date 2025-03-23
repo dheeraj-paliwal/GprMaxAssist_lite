@@ -52,13 +52,11 @@ Once the chatbot starts, you can interact with it by typing natural language que
  * Type exit to close the chatbot. 👋
 📂 Project Structure
 GprMaxAssist_lite/
-├── [your_chatbot_script_name].py       # The main Python script for the chatbot
-├── knowledge_base.py     # (Optional) File containing gprMax command knowledge
-├── data/                 # (Optional) Directory for training data or other resources
+├──gprMaxAssist_lite.py           # The main Python script for the chatbot
 ├── README.md
-├── LICENSE
 └── .gitignore
-└── requirements.txt      # (Will be created if you have dependencies)
+
+
 
 💡 Future Work
  * Implement more sophisticated Natural Language Understanding (NLU) using libraries like spaCy or NLTK.
