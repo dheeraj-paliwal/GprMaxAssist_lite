@@ -39,7 +39,7 @@ class GprMaxChatbot:
                 "parameters": ["x (float, meters)", "y (float, meters)", "z (float, meters)"],
                 "keywords": ["add receiver", "place sensor", "record field"]
             }
-            # Add more commands as needed
+            # if further it requires any commands then they will ve added here !!
         }
 
     def process_input(self, user_input):
