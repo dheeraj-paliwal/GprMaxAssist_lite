@@ -1,6 +1,3 @@
 streamlit
-transformers
-torch
-peft
-bitsandbytes
-sentence-transformers
+huggingface_hub
+requests
